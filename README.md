@@ -1,15 +1,15 @@
-##使用Electron开发环境设置
+## 使用Electron开发环境设置
 * 安装nodejs
 * 安装electron
 * 安装electron-package
 
-##项目依赖添加
+## 项目依赖添加
   * 切换到项目根目录打开cmd  
   
   
       nmp install mysql --save
     
-##项目打包  
+## 项目打包  
   * 手动打包
   
   
