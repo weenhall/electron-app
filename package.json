@@ -1,0 +1,11 @@
+{
+  "name": "electron-app",
+  "main": "index.js",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
