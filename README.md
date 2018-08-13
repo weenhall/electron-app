@@ -7,7 +7,7 @@
   * 切换到项目根目录打开cmd  
   
   
-      nmp install mysql --save
+      npm install mysql --save
     
 ## 项目打包  
   * 手动打包
