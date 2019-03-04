@@ -26,5 +26,5 @@
      "srcipts":
      {""package":"electron-packager ./ start --win --out outApp --arch=x64 --electron-version 2.0.5 --overwrites"}
      
-     npm run packager
+     npm run package
  
