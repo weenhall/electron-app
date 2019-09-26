@@ -17,11 +17,14 @@
      npm run packager 
   
   * 半自动打包
-     在package.json中配置
+     在项目根目录下执行
      
+     npm install electron --save-dev       
+     npm install electron-packager --save-dev
      
+     在package.json中添加
      "srcipts":
      {""package":"electron-packager ./ start --win --out outApp --arch=x64 --electron-version 2.0.5 --overwrites"}
      
-     npm run packager
+     npm run package
  
